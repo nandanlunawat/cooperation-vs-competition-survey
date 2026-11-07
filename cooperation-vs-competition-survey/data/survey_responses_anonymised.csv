@@ -1,0 +1,47 @@
+respondent_id,3) Year of Study,4) Academic Performance ( According to you ),5) I enjoy working in situations involving competitions,6) It is important for me to perform better than other people on a task.,7) I try harder when I compete with other people.,5) I enjoy working in groups and sharing ideas.,9) I often share my notes and resources with classmates.,10) I feel comfortable relying on others in group work.,11) How often do your Assignments involve group work where the group is graded together?,orig_Grouip_Assignment_Involvement_frequency,"12) In the last month, how often did you study with classmates?",orig_Study_Frequency_with_Peers,13) Have you observed Free-Riding (classmates not contributing in group tasks),orig_FREE_RIDING,14) How motivated are you to study for graded assessments?,15) How would you rate your academic performance relative to your classmates?,"16) In your experience, what helps you learn better, cooperation with classmates or competition?",orig_Cooperation_Index,orig_Competition_Index,orig_coop_index,orig_comp_index,orig_High_Cooperation_index,orig_High_Competition_index,orig_Belonging_Index,orig_Reward,orig_Sucker,orig_Temptation,orig_Punishment
+1,1st Year,70% to 80%,4,4,4,1,5,2,Often,4,2-3 Times,2,No,0.0,4,Below Average,Cooperation,2.666666667,4.0,0,1,0,1,1.666666667,3.851851852,3.15,4.666666667,3.093333333
+2,1st Year,80% to 90%,5,3,3,5,5,2,Often,4,Daily,5,Yes,1.0,3,Above Average,Cooperation,4.0,3.666666667,1,1,1,0,4.0,3.851851852,3.15,4.666666667,3.093333333
+3,1st Year,80% to 90%,5,5,5,3,5,1,Often,4,2-3 Times,2,Yes,1.0,5,Well above average,Competition,3.0,5.0,0,1,0,1,2.0,3.851851852,3.15,4.666666667,3.093333333
+4,1st Year,70% to 80%,4,3,4,4,4,3,Often,4,2-3 Times,2,Yes,1.0,4,Above Average,"Cooperation, Competition",3.666666667,3.666666667,1,1,1,0,3.0,3.851851852,3.15,4.666666667,3.093333333
+5,1st Year,80% to 90%,4,3,3,5,5,1,Often,4,Weekly,3,Yes,1.0,5,Average,Cooperation,3.666666667,3.333333333,1,0,1,0,3.0,3.851851852,3.15,4.666666667,3.093333333
+6,1st Year,60% to 70%,3,3,4,4,5,2,Sometimes,3,Weekly,3,Yes,1.0,4,Average,Cooperation,3.666666667,3.333333333,0,0,1,0,3.0,3.851851852,3.15,4.666666667,3.093333333
+7,1st Year,80% to 90%,5,5,4,5,4,5,Sometimes,3,Weekly,3,Yes,1.0,5,Well above average,Competition,4.666666667,4.666666667,1,1,1,0,4.333333333,3.851851852,3.15,4.666666667,3.093333333
+8,1st Year,80% to 90%,4,5,5,5,5,5,Rarely,2,Weekly,3,Yes,1.0,3,Above Average,Cooperation,5.0,4.666666667,1,1,1,0,4.333333333,3.851851852,3.15,4.666666667,3.093333333
+9,1st Year,70% to 80%,4,2,3,4,3,3,Often,4,2-3 Times,2,Not Sure,0.5,4,Below Average,Cooperation,3.333333333,3.0,0,0,1,0,3.0,3.851851852,3.15,4.666666667,3.093333333
+10,1st Year,70% to 80%,3,5,5,3,3,3,Sometimes,3,Once,1,No,0.0,5,Average,Cooperation,3.0,4.333333333,0,1,0,1,2.333333333,3.851851852,3.15,4.666666667,3.093333333
+11,1st Year,70% to 80%,4,5,5,4,4,4,Sometimes,3,Weekly,3,Yes,1.0,4,Above Average,Competition,4.0,4.666666667,1,1,0,1,3.666666667,3.851851852,3.15,4.666666667,3.093333333
+12,1st Year,80% to 90%,3,2,2,4,4,3,Rarely,2,Never,0,Yes,1.0,4,Average,Cooperation,3.666666667,2.333333333,0,0,1,0,2.333333333,3.851851852,3.15,4.666666667,3.093333333
+13,1st Year,Above 90%,4,1,3,3,5,4,Often,4,Never,0,Yes,1.0,3,Above Average,Cooperation,4.0,2.666666667,1,0,1,0,2.333333333,3.851851852,3.15,4.666666667,3.093333333
+14,1st Year,Above 90%,4,3,5,3,5,4,Sometimes,3,2-3 Times,2,Yes,1.0,4,Above Average,Cooperation,4.0,4.0,1,1,1,0,3.0,3.851851852,3.15,4.666666667,3.093333333
+15,1st Year,80% to 90%,4,4,4,4,3,1,Sometimes,3,2-3 Times,2,No,0.0,3,Average,Competition,2.666666667,4.0,0,1,0,1,2.333333333,3.851851852,3.15,4.666666667,3.093333333
+16,1st Year,60% to 70%,5,2,3,5,5,3,Often,4,Always,4,Not Sure,0.5,2,Average,Cooperation,4.333333333,3.333333333,1,0,1,0,4.0,3.851851852,3.15,4.666666667,3.093333333
+17,1st Year,50% to 60%,3,3,3,3,5,1,Often,4,Never,0,Yes,1.0,5,little Below Average,Cooperation,3.0,3.0,0,0,1,0,1.333333333,3.851851852,3.15,4.666666667,3.093333333
+18,1st Year,80% to 90%,4,5,5,3,5,3,Often,4,2-3 Times,2,No,0.0,4,Above Average,Competition,3.666666667,4.666666667,0,1,0,1,2.666666667,3.851851852,3.15,4.666666667,3.093333333
+19,2nd year,70% to 80%,3,3,4,5,5,3,Sometimes,3,2-3 Times,2,Not Sure,0.5,5,Average,Cooperation,4.333333333,3.333333333,1,0,1,0,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+20,1st Year,80% to 90%,5,5,5,5,5,2,Rarely,2,Never,0,Yes,1.0,4,Well above average,Competition,4.0,5.0,1,1,0,1,2.333333333,3.851851852,3.15,4.666666667,3.093333333
+21,1st Year,60% to 70%,2,2,4,3,5,5,Sometimes,3,2-3 Times,2,Yes,1.0,4,Average,Cooperation,4.333333333,2.666666667,1,0,1,0,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+22,1st Year,70% to 80%,4,3,4,5,5,4,Often,4,Always,4,Yes,1.0,4,Above Average,Cooperation,4.666666667,3.666666667,1,1,1,0,4.333333333,3.851851852,3.15,4.666666667,3.093333333
+23,1st Year,70% to 80%,3,3,4,4,4,4,Often,4,2-3 Times,2,Yes,1.0,4,"Average, Above Average",Cooperation,4.0,3.333333333,1,0,1,0,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+24,1st Year,60% to 70%,4,3,4,4,4,3,Sometimes,3,Once,1,Not Sure,0.5,4,Average,Cooperation,3.666666667,3.666666667,1,1,1,0,2.666666667,3.851851852,3.15,4.666666667,3.093333333
+25,2nd year,Above 90%,3,4,4,5,5,3,Rarely,2,2-3 Times,2,Yes,1.0,2,Well above average,Cooperation,4.333333333,3.666666667,1,0,1,0,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+26,2nd year,80% to 90%,3,5,4,3,4,1,Rarely,2,Once,1,Yes,1.0,4,Above Average,Cooperation,2.666666667,4.0,0,1,0,1,1.666666667,3.851851852,3.15,4.666666667,3.093333333
+27,2nd year,Above 90%,3,4,5,4,4,4,Always,5,Weekly,3,No,0.0,5,Above Average,Cooperation,4.0,4.0,1,1,1,0,3.666666667,3.851851852,3.15,4.666666667,3.093333333
+28,1st Year,80% to 90%,4,2,1,4,5,1,Sometimes,3,Never,0,Yes,1.0,5,Above Average,Competition,3.333333333,2.333333333,0,0,1,0,1.666666667,3.851851852,3.15,4.666666667,3.093333333
+29,2nd year,60% to 70%,3,5,5,4,3,4,Sometimes,3,2-3 Times,2,Yes,1.0,3,little Below Average,Cooperation,3.666666667,4.333333333,1,1,0,1,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+30,1st Year,80% to 90%,4,3,5,5,5,1,Sometimes,3,Always,4,Yes,1.0,5,Above Average,"Cooperation, Competition",3.666666667,4.0,1,1,0,1,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+31,2nd year,Above 90%,4,4,5,4,4,2,Sometimes,3,2-3 Times,2,Yes,1.0,5,Well above average,Competition,3.333333333,4.333333333,0,1,0,1,2.666666667,3.851851852,3.15,4.666666667,3.093333333
+32,1st Year,50% to 60%,3,5,4,1,5,1,Sometimes,3,Never,0,Yes,1.0,5,Below Average,Competition,2.333333333,4.0,0,1,0,1,0.666666667,3.851851852,3.15,4.666666667,3.093333333
+33,1st Year,80% to 90%,5,4,4,4,4,2,Often,4,Once,1,Yes,1.0,4,Above Average,Cooperation,3.333333333,4.333333333,0,1,0,1,2.333333333,3.851851852,3.15,4.666666667,3.093333333
+34,1st Year,70% to 80%,4,3,4,3,5,2,Sometimes,3,Weekly,3,Yes,1.0,3,Average,"Cooperation, Competition",3.333333333,3.666666667,0,1,0,1,2.666666667,3.851851852,3.15,4.666666667,3.093333333
+35,1st Year,Above 90%,1,2,1,3,1,3,Often,4,2-3 Times,2,No,0.0,5,Above Average,"Cooperation, Competition",2.333333333,1.333333333,0,0,1,0,2.666666667,3.851851852,3.15,4.666666667,3.093333333
+36,1st Year,80% to 90%,3,4,4,5,4,4,Sometimes,3,Weekly,3,Yes,1.0,4,Average,Cooperation,4.333333333,3.666666667,1,1,1,0,4.0,3.851851852,3.15,4.666666667,3.093333333
+37,1st Year,70% to 80%,2,4,3,4,4,4,Sometimes,3,2-3 Times,2,Not Sure,0.5,1,Average,Cooperation,4.0,3.0,1,0,1,0,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+38,1st Year,50% to 60%,3,3,2,3,5,4,Always,5,2-3 Times,2,Yes,1.0,2,Below Average,Cooperation,4.0,2.666666667,1,0,1,0,3.0,3.851851852,3.15,4.666666667,3.093333333
+39,1st Year,Below 50%,5,4,3,5,1,2,Often,4,2-3 Times,2,No,0.0,4,"little Below Average, Above Average",Cooperation,2.666666667,4.0,0,1,0,1,3.0,3.851851852,3.15,4.666666667,3.093333333
+40,1st Year,80% to 90%,5,4,5,3,4,5,Sometimes,3,Always,4,Yes,1.0,5,Above Average,"Cooperation, Competition",4.0,4.666666667,1,1,0,1,4.0,3.851851852,3.15,4.666666667,3.093333333
+41,1st Year,80% to 90%,5,5,4,4,5,3,Often,4,Weekly,3,Yes,1.0,5,Above Average,"Cooperation, Competition",4.0,4.666666667,0,1,0,1,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+42,1st Year,Below 50%,3,3,2,3,3,2,Sometimes,3,2-3 Times,2,Not Sure,0.5,1,little Below Average,"Cooperation, Competition",2.666666667,2.666666667,0,0,1,0,2.333333333,3.851851852,3.15,4.666666667,3.093333333
+43,1st Year,50% to 60%,4,3,3,7,4,2,Sometimes,3,Once,1,No,0.0,4,Average,Cooperation,4.333333333,3.333333333,0,0,1,0,3.333333333,3.851851852,3.15,4.666666667,3.093333333
+44,1st Year,Above 90%,5,5,5,8,5,1,Often,4,Weekly,3,Yes,1.0,5,Well above average,Cooperation,4.666666667,5.0,1,1,0,1,4.0,3.851851852,3.15,4.666666667,3.093333333
+45,1st Year,Below 50%,2,4,2,1,1,1,Sometimes,3,2-3 Times,2,Yes,1.0,5,Below Average,,1.0,2.666666667,0,0,0,1,1.333333333,3.851851852,3.15,4.666666667,3.093333333
+46,1st Year,70% to 80%,3,5,3,8,3,3,Often,4,2-3 Times,2,Not Sure,0.5,1,Average,Cooperation,4.666666667,3.666666667,1,1,1,0,4.333333333,3.851851852,3.15,4.666666667,3.093333333
